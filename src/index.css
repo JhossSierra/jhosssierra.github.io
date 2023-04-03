@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+:root{
+  
+  --color1 : #193716;
+  --color2 : #2f5121;
+  --color3 : #507830;
+  --color4 : #81ab44;
+  --color5 : #c4ed5c;
+
+}
+body {
+  margin: 0;
+  font-family: "Raleway", serif !important;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  
+  background-image: linear-gradient(to left, rgb(9, 58, 13) , rgb(5, 113, 16));
+  /*background-image: linear-gradient(to left, rgb(27 20 41), rgb(31, 22, 57));*/
+}
+
