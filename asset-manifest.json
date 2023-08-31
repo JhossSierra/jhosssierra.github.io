@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.1bf37eb3.css",
-    "main.js": "/static/js/main.ea52b484.js",
+    "main.js": "/static/js/main.8d30b959.js",
     "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
     "static/media/Torrin.png": "/static/media/Torrin.66f125d6ae7ad5ce6376.png",
     "static/media/Ecommerce.png": "/static/media/Ecommerce.0f6a735175e76cf17087.png",
-    "static/media/curriculumJose.pdf": "/static/media/curriculumJose.14900fe4cc4b7bc00d80.pdf",
+    "static/media/Jhosscv.pdf": "/static/media/Jhosscv.d3d735a1afbb5222b078.pdf",
     "static/media/home-main.svg": "/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
     "static/media/about.png": "/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/TodoMachine.png": "/static/media/TodoMachine.f5feb2ebee6820e8ea05.png",
@@ -15,12 +15,12 @@
     "static/media/pre.svg": "/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/index.html",
     "main.1bf37eb3.css.map": "/static/css/main.1bf37eb3.css.map",
-    "main.ea52b484.js.map": "/static/js/main.ea52b484.js.map",
+    "main.8d30b959.js.map": "/static/js/main.8d30b959.js.map",
     "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1bf37eb3.css",
-    "static/js/main.ea52b484.js"
+    "static/js/main.8d30b959.js"
   ]
 }
